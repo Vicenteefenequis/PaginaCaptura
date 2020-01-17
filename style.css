@@ -24,7 +24,7 @@ header{
 }
 section{
     padding: 20px;
-    background-image: url(/people.jpg);
+    background-image: url(people.jpg);
     background-size: cover;
     overflow: hidden;
     
@@ -60,7 +60,7 @@ select{
     -webkit-appearance: none;
     appearance: none;
 
-    background-image: url(/arrow.jpg);
+    background-image: url(arrow.jpg);
     background-repeat: no-repeat;
     background-position-x: calc(100% - 10px);
     background-position-y: center ;
